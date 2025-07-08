@@ -1,0 +1,2 @@
+senha: 2015
+nome do banco: confeitariaBD
