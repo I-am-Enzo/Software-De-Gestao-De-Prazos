@@ -1,6 +1,6 @@
 # ProjetoExtensao
 
-# SOFTWARE DE GESTÂO DE PREZOS
+# SOFTWARE DE GESTÃO DE PRAZOS
 
 ## Índice
 1. [Descrição do projeto](#Descrição_projeto)
